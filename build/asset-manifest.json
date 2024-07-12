@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.672cb4c4.css",
+    "main.js": "./static/js/main.d66373f1.js",
+    "static/media/me-new.png": "./static/media/me-new.19806cbdfd33c8d4bbac.png",
+    "static/media/img3.jpg": "./static/media/img3.00aeed19a9c943e1e2bf.jpg",
+    "static/media/img2.jpg": "./static/media/img2.0664780a301e571f75e7.jpg",
+    "static/media/Arun-K_CV.pdf": "./static/media/Arun-K_CV.6ec5569fd89eaf487989.pdf",
+    "static/media/img5.jpg": "./static/media/img5.22e5a2d70c4315746400.jpg",
+    "index.html": "./index.html",
+    "main.672cb4c4.css.map": "./static/css/main.672cb4c4.css.map",
+    "main.d66373f1.js.map": "./static/js/main.d66373f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672cb4c4.css",
+    "static/js/main.d66373f1.js"
+  ]
+}
